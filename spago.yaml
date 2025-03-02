@@ -1,4 +1,11 @@
 package:
+  name: fetch-argonaut
+  publish:
+    version: 1.0.2
+    license: MIT
+    location:
+      githubOwner: rowtype-yoga
+      githubRepo: purescript-fetch-argonaut
   dependencies:
     - aff
     - argonaut
@@ -9,7 +16,6 @@ package:
     - prelude
     - transformers
     - unsafe-coerce
-  name: fetch-argonaut
 workspace:
   extraPackages: {}
   packageSet:
