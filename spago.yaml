@@ -1,0 +1,16 @@
+package:
+  dependencies:
+    - aff
+    - argonaut
+    - console
+    - effect
+    - either
+    - foreign
+    - prelude
+    - transformers
+    - unsafe-coerce
+  name: fetch-argonaut
+workspace:
+  extraPackages: {}
+  packageSet:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.2-20220706/packages.json
