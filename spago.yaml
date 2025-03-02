@@ -2,6 +2,7 @@ package:
   name: fetch-argonaut
   publish:
     version: 1.0.2
+    license: MIT
     location:
       githubOwner: rowtype-yoga
       githubRepo: purescript-fetch-argonaut
